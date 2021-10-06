@@ -41,7 +41,7 @@ const styles = StyleSheet.create({
     flexDirection: "row",
     justifyContent: "flex-start",
     alignItems: "center",
-    minWidth: 100,
+    minWidth: 110,
   },
   text: {
     fontFamily: "open-sans-bold",
